@@ -7,7 +7,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   output: "export",
-  basePath: "/nextjs-github-pages",
+  basePath: "/marketmessage",
   images: {
     unoptimized: true,
   },
